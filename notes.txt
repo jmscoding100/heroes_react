@@ -1,0 +1,15 @@
+Have both node and react severs running
+
+Connect initial components
+
+Build
+    Header
+    Nav
+    Main
+    ALl Heroes
+    HeroesSingle
+    Error
+    AddHeroForm
+    Footer
+
+
