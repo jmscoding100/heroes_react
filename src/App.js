@@ -7,6 +7,7 @@ import Main from "./components/Main"
 import Footer from "./components/Footer"
 import AllHeroes from "./components/AllHeroes"
 import HeroSingle from "./components/HeroSingle"
+import Franchise from "./components/Franchise"
 import Error from "./components/Error"
 
 const App =()=>{
@@ -26,6 +27,7 @@ const App =()=>{
         <Header />
         <Routes>
             <Route path="/" element={<Main />} />
+            <Route path="/franchises" element={<Franchise />} />
             <Route path="/heroes" element={<AllHeroes heroes={heroes} />} />
             <Route path="/heroes/:id" element={<HeroSingle />} />
 

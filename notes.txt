@@ -1,4 +1,5 @@
 Have both node and react severs running
+if project is crashing for no reason delete node_modules, uninstall [react, react-scripts, react-dom], and then reinstall the node_modules and react programs
 
 Connect initial components
 
