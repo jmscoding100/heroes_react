@@ -14,3 +14,4 @@ Build
     Footer
 
 
+see if a dynamic component for Franchise, Team, Species, and Power is possible
